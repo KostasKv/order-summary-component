@@ -9,12 +9,14 @@ module.exports = {
       'very-pale-blue': 'hsl(225, 100%, 98%)',
       'desaturated-blue': 'hsl(224, 23%, 55%)',
       'dark-blue': 'hsl(223, 47%, 23%)',
+      'white': 'hsl(0, 100%, 100%)',
+      'grey': '#f8f9fe',
     },
     fontFamily: {
       'sans': ['Red Hat Display', 'sans-serif'],
     },
     screens: {
-      'sm': '410px',
+      'sm': '520px',
     }
   },
   plugins: [],

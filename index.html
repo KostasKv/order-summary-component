@@ -21,18 +21,32 @@
   </style>
 </head>
 <body>
-  <p class="text-pale-blue">Order Summary</p>
+  <div class="flex h-screen justify-center items-center
+              bg-[url('/images/pattern-background-mobile.svg')] bg-pale-blue sm:bg-[url('/images/pattern-background-desktop.svg')] bg-no-repeat bg- bg-contain">
+    <div class="flex flex-col bg-white w-[327px] min-w-[327px] h-[568px] sm:w-[450px] sm:h-[698px] rounded-2xl overflow-hidden">
+      <img src="/images/illustration-hero.svg" alt="illustration of person dancing to music on their phone">
+      <div class="p-7 sm:p-12">
+        <h1 class="font-black text-[22px] sm:text-[28px] sm:-mt-[3px] text-center text-dark-blue">Order Summary</h1>
 
-  You can now listen to millions of songs, audiobooks, and podcasts on any 
-  device anywhere you like!
+        <p class="font-sans text-center px-3 leading-[25px] text-[15px] sm:text-[16px]  text-desaturated-blue mt-[15px]">
+          You can now listen to millions of songs, audiobooks, and podcasts on any
+          device anywhere you like!
+        </p>
 
-  Annual Plan
-  $59.99/year
+        <div class="flex flex-row justify-between bg-grey rounded-xl p-4 sm:px-5 sm:py-[21px] mt-[23px]">
+          <img src="images/icon-music.svg" alt="music icon" class="w-[48px] sm:w-[50px]">
+          <div class="flex flex-col -ml-7 justify-center sm:-ml-[90px] sm:justify-start">
+            <p class="font-bold text-sm sm:text-[15px]">Annual Plan</p>
+            <p class="text-desaturated-blue text-sm sm:text-[15px] sm:mt-[5px]">$59.99/year</p>
+          </div>
+          <button class="underline text-xs sm:text-sm text-bright-blue hover:no-underline hover:text-[#766cf1] font-bold sm:mr-1">Change</button>
+        </div>
 
-  Change
-
-  Proceed to Payment
-  Cancel Order
+        <button class="bg-bright-blue hover:bg-[#766cf1] text-white text-sm font-black rounded-xl px-8 py-4 w-full shadow-xl shadow-[#9f92ec6e] mt-6 sm:mt-8">Proceed to Payment</button>
+        <button class="text-desaturated-blue font-black text-sm w-full mt-6 sm:mt-7 hover:text-dark-blue">Cancel Order</button>
+      </div>
+    </div>
+  </div>
   
   <footer>
     <div class="attribution">
