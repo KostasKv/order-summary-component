@@ -1027,8 +1027,148 @@ p {
   --tw-shadow: var(--tw-shadow-colored);
 }
 
+.shadow-\[\#afa2f76e\] {
+  --tw-shadow-color: #afa2f76e;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#afa2f78a\] {
+  --tw-shadow-color: #afa2f78a;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#afa2f7cb\] {
+  --tw-shadow-color: #afa2f7cb;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#afa2f749\] {
+  --tw-shadow-color: #afa2f749;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#afa2f763\] {
+  --tw-shadow-color: #afa2f763;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#ccc4fa63\] {
+  --tw-shadow-color: #ccc4fa63;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#ad9ffa63\] {
+  --tw-shadow-color: #ad9ffa63;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#ad9ffa6b\] {
+  --tw-shadow-color: #ad9ffa6b;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#ad9ffa80\] {
+  --tw-shadow-color: #ad9ffa80;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#ad9ffa8e\] {
+  --tw-shadow-color: #ad9ffa8e;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#ad9ffaee\] {
+  --tw-shadow-color: #ad9ffaee;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#ad9ffaa4\] {
+  --tw-shadow-color: #ad9ffaa4;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#9fa5faa4\] {
+  --tw-shadow-color: #9fa5faa4;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#9fa5fa85\] {
+  --tw-shadow-color: #9fa5fa85;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#b6baff8f\] {
+  --tw-shadow-color: #b6baff8f;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#b6baffcc\] {
+  --tw-shadow-color: #b6baffcc;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#b6baff\] {
+  --tw-shadow-color: #b6baff;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#b6baff9c\] {
+  --tw-shadow-color: #b6baff9c;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#a7acfc9c\] {
+  --tw-shadow-color: #a7acfc9c;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#c0b9fc9c\] {
+  --tw-shadow-color: #c0b9fc9c;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#9893bd86\] {
+  --tw-shadow-color: #9893bd86;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#837cbb86\] {
+  --tw-shadow-color: #837cbb86;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#7972b886\] {
+  --tw-shadow-color: #7972b886;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#847dbe62\] {
+  --tw-shadow-color: #847dbe62;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#776fc275\] {
+  --tw-shadow-color: #776fc275;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#776fc262\] {
+  --tw-shadow-color: #776fc262;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-\[\#928cc962\] {
+  --tw-shadow-color: #928cc962;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
 .drop-shadow-2xl {
   --tw-drop-shadow: drop-shadow(0 25px 25px rgb(0 0 0 / 0.15));
+  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
+}
+
+.drop-shadow-xl {
+  --tw-drop-shadow: drop-shadow(0 20px 13px rgb(0 0 0 / 0.03)) drop-shadow(0 8px 5px rgb(0 0 0 / 0.08));
   filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
 
