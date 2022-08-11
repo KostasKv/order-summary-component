@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-order-summary-component-built-with-tailwind-css-Np01VeHerF](https://www.frontendmentor.io/solutions/responsive-order-summary-component-built-with-tailwind-css-Np01VeHerF)
+- Live Site URL: [https://kostaskv-order-summary-component.netlify.app/](https://kostaskv-order-summary-component.netlify.app/)
 
 ## My process
 
@@ -38,6 +38,9 @@ Users should be able to:
 - Tailwind CSS
 
 ### Useful resources
+
+- [Tailwind background image](https://tailwindcss.com/docs/background-image) - Documentation for using background images with Tailwind CSS.
+- [Tailwind background repeat](https://tailwindcss.com/docs/background-repeat) - Turning off background repeat is what made the background look as it is in the design. Took a little bit of fiddling around until I came across this.
 
 ## Author
 

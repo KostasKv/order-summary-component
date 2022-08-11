@@ -555,6 +555,14 @@ p {
   --tw-backdrop-sepia:  ;
 }
 
+.absolute {
+  position: absolute;
+}
+
+.bottom-0 {
+  bottom: 0px;
+}
+
 .mt-6 {
   margin-top: 1.5rem;
 }
@@ -874,6 +882,11 @@ p {
 .text-white {
   --tw-text-opacity: 1;
   color: hsl(0 100% 100% / var(--tw-text-opacity));
+}
+
+.text-grey {
+  --tw-text-opacity: 1;
+  color: rgb(248 249 254 / var(--tw-text-opacity));
 }
 
 .underline {
